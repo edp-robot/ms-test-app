@@ -1,0 +1,1 @@
+1. Application ms-test-app has been successfully deployed!!
